@@ -1,0 +1,9 @@
+./tezos-client transfer 6.62 from tezos-suisse to KT1PhwnQtRxhqnoHPn7pUauTYXZDnDbxTEYJ --fee 0.01
+./tezos-client transfer 3.76 from tezos-suisse to KT1VRZqnGFDXazNv6y2GWktzkc2p6J4SeU6a --fee 0.01
+./tezos-client transfer 1.4 from tezos-suisse to KT1Jev2rDzb92wGKPSwbVEGkcHosMUTvz89A --fee 0.01
+./tezos-client transfer 1.09 from tezos-suisse to KT1Tybh9CY57AcHny8mHpaFyrV3BtWfxpYtz --fee 0.01
+./tezos-client transfer 0.74 from tezos-suisse to KT1XZjBGz2ThwnWvxxpHYy2NmxgZPFBNqDfa --fee 0.01
+./tezos-client transfer 0.71 from tezos-suisse to KT1VunidXJHRLCQoFtTABNDeBrUkw9gKfDS2 --fee 0.01
+./tezos-client transfer 0.61 from tezos-suisse to KT1FcgG5dgbVUQNfLNQWFGXTxcybaFpmPFVP --fee 0.01
+./tezos-client transfer 0.06 from tezos-suisse to KT1USRRcbdPzX1Sa9B5hEyhZAsjRgPVpzM9J --fee 0.01
+./tezos-client transfer 0.0 from tezos-suisse to KT1CpwuvYccHLzyAvJu2zRGSSuyqC8u4sJSU --fee 0.01
