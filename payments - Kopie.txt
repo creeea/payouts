@@ -1,0 +1,22 @@
+blablabal
+
+./tezos-client transfer 0.02659179 from test_imp to KT1KK3JHt1kS16meHiG3HGPEExtRj87ppYrN --fee 0.0
+./tezos-client transfer 0.01948709 from test_imp to KT1HNQGsCmrNY5ePF6drtskow43J9jM8sJsL --fee 0.0
+./tezos-client transfer 0.00306173 from test_imp to KT1ShiEUWddaKwjXdwnT3CxWD2d1PkA1dHGQ --fee 0.0
+./tezos-client transfer 0.00246865 from test_imp to KT1Hf5AqL1Z6fX4PPHWogQug7PBbMaQ3dWC5 --fee 0.0
+./tezos-client transfer 0.00202991 from test_imp to KT1QnPXKYdeYbWE7aW7aeH7Yox3JLuHwc1Si --fee 0.0
+./tezos-client transfer 0.00131119 from test_imp to KT1Ch5FqnzG2Q6Dh2SD4Jp428DNHTvUgs9JE --fee 0.0
+./tezos-client transfer 0.00117043 from test_imp to KT1PyEmhACU8XT8PaYmUGRQRpLLivVwbDmvS --fee 0.0
+./tezos-client transfer 0.0010899 from test_imp to KT1HtxFbyHdZCZrRAiQUGpy2k9vVFR5PwWwV --fee 0.0
+./tezos-client transfer 0.00101491 from test_imp to KT1PPmJn9ZfVUSp6VDv92S7epKdZoU1cHV5f --fee 0.0
+./tezos-client transfer 0.00097433 from test_imp to KT19JLrhAG3q1k2wQQCXxpU7zmkimKp2nLqe --fee 0.0
+./tezos-client transfer 0.00093281 from test_imp to KT1Nk1AchyK8xxsertSjJtufAtzNASeN5JDK --fee 0.0
+./tezos-client transfer 0.00086563 from test_imp to KT1BF9yAVb35dmeRCBcECXNo3hx1QkBTKy7M --fee 0.0
+./tezos-client transfer 0.00083054 from test_imp to KT1EERKk6vwREFFiU8SSVcKnx38ryUhnEuPH --fee 0.0
+./tezos-client transfer 0.00073068 from test_imp to KT1VBMpXfnvDzFUpqcUqnP4gdcnC9sxvvZDp --fee 0.0
+./tezos-client transfer 0.00048715 from test_imp to KT1BBooS8j4ad2Pmmb8zMZyyHdRMmmco9TXQ --fee 0.0
+./tezos-client transfer 0.00039826 from test_imp to KT1SE8DxcSsfA7upZtdpcZGGRRP3guqSk4nM --fee 0.0
+./tezos-client transfer 0.00039592 from test_imp to KT1E9Cm6Qk9DyvdFL8F5Uy79PsCBP8MhSNEq --fee 0.0
+./tezos-client transfer 0.00027444 from test_imp to KT1K8jKxkyP6SHYwUzXAXQSM2TuY2LQDudnn --fee 0.0
+./tezos-client transfer 0.00020295 from test_imp to KT1JNmLDFBv5hc399KqXPVyr5AAZn1ZMuuhw --fee 0.0
+./tezos-client transfer 0.00017791 from test_imp to KT1KrHhZdCaNGFUkogrnQjqhYgQYQW2V4PHd --fee 0.0
