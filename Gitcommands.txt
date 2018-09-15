@@ -1,5 +1,20 @@
+UPLOAD local to GIT
+
 git init
 git add .
-git commit -m "Anpassung payments.txt"
+git commit -m "synch"
 git remote add origin remote repository https://github.com/creeea/payouts.git
 git push origin master
+
+---------------------
+
+DOWNLOAD GIT to local clear local changes and pull from Git
+
+git clean -f
+git pull
+
+
+
+-------------------------
+copy file
+cp payments.txt /home/USERNAME/tezos
