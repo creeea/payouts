@@ -1,0 +1,5 @@
+git init
+git add .
+git commit -m "Anpassung payments.txt"
+git remote add origin remote repository https://github.com/creeea/payouts.git
+git push origin master
