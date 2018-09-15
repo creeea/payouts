@@ -18,6 +18,3 @@
 ./tezos-client transfer 0.366 from tezos-suisse to KT1Pnq7dByBdgdnY9itg1tQfYD5KQrzhfGLm --fee 0
 ./tezos-client transfer 0.33 from tezos-suisse to KT1LrXab9dkGoC2dNvXomkq79naT1wjSCRrL --fee 0
 ./tezos-client transfer 0.294 from tezos-suisse to KT1S8jSCggtgFb4doVddAA5Y72nhG178szLF --fee 0
-./tezos-client transfer 0.073 from tezos-suisse to KT1USRRcbdPzX1Sa9B5hEyhZAsjRgPVpzM9J --fee 0
-./tezos-client transfer 0.0 from tezos-suisse to KT1CpwuvYccHLzyAvJu2zRGSSuyqC8u4sJSU --fee 0
-./tezos-client transfer 0.0 from tezos-suisse to KT1ABz8ni1FP7vHzCbxRHRjQHjzvj1pvUQ93 --fee 0
