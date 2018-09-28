@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ./tezos-client transfer 9.219 from tezos-suisse to KT1KpfFUHHFZzdBwkfYbiFUJfA6Bfnip6Eut --fee 0
 ./tezos-client transfer 9.062 from tezos-suisse to KT1Jm5vpnCGPCgia9FWmVhFsbM24DjpJaq5Q --fee 0
 ./tezos-client transfer 6.273 from tezos-suisse to KT1Bzz3Bgd6xapUYRXdm1dSpBTcNsdmQkPVz --fee 0
@@ -22,33 +21,3 @@
 ./tezos-client transfer 0.469 from tezos-suisse to KT1FcgG5dgbVUQNfLNQWFGXTxcybaFpmPFVP --fee 0
 ./tezos-client transfer 0.374 from tezos-suisse to KT1LrXab9dkGoC2dNvXomkq79naT1wjSCRrL --fee 0
 ./tezos-client transfer 0.225 from tezos-suisse to KT1LNn1gDmUmivcm1Ptst3WGnKxtfDSzHZa3 --fee 0
-./tezos-client transfer 0.225 from tezos-suisse to KT1Pnq7dByBdgdnY9itg1tQfYD5KQrzhfGLm --fee 0
-./tezos-client transfer 0.18 from tezos-suisse to KT1S8jSCggtgFb4doVddAA5Y72nhG178szLF --fee 0
-=======
-./tezos-client transfer 22.221 from tezos-suisse to KT1KpfFUHHFZzdBwkfYbiFUJfA6Bfnip6Eut --fee 0
-./tezos-client transfer 21.843 from tezos-suisse to KT1Jm5vpnCGPCgia9FWmVhFsbM24DjpJaq5Q --fee 0
-./tezos-client transfer 15.121 from tezos-suisse to KT1Bzz3Bgd6xapUYRXdm1dSpBTcNsdmQkPVz --fee 0
-./tezos-client transfer 12.165 from tezos-suisse to KT1PhwnQtRxhqnoHPn7pUauTYXZDnDbxTEYJ --fee 0
-./tezos-client transfer 10.864 from tezos-suisse to KT1HfULDcf7HtLxjpowbqtzmUBFVhbGu8UWA --fee 0
-./tezos-client transfer 9.781 from tezos-suisse to KT1RsVkiPzReLgE9S71VcPPLTcKjZ4HiNBYE --fee 0
-./tezos-client transfer 7.608 from tezos-suisse to KT1R27QF17quivr3KGGYtQEK7tiKYAsCXiAZ --fee 0
-./tezos-client transfer 6.919 from tezos-suisse to KT1VRZqnGFDXazNv6y2GWktzkc2p6J4SeU6a --fee 0
-./tezos-client transfer 5.756 from tezos-suisse to KT1Ld5oA2wpQa6VbitEis2oJRNQsM8mNioGU --fee 0
-./tezos-client transfer 3.259 from tezos-suisse to KT1Pa9hKmY7znQmqAGCWH9DHB3dX23ePjCDy --fee 0
-./tezos-client transfer 3.258 from tezos-suisse to KT1ACZwGSgiB968ZVgEte56sF2GqWCCYFnnh --fee 0
-./tezos-client transfer 3.041 from tezos-suisse to KT1QuDW1wdLU8kfjQT5UmiY2Ws2JLp2ciZ4P --fee 0
-./tezos-client transfer 2.947 from tezos-suisse to KT1F9txotBSiAFaad9jEKWHegQSLbMKQFkAk --fee 0
-./tezos-client transfer 2.757 from tezos-suisse to KT1G3LQSLKWT5mWz9ngnFgxYHXbKg2RnHZFt --fee 0
-./tezos-client transfer 2.716 from tezos-suisse to KT1UvkjUEkYT9acZSMZhpot8ZYh8WP7g33Tv --fee 0
-./tezos-client transfer 2.716 from tezos-suisse to KT1ATUaE63ouQYuxBcdoCpgziHhYeR47QtoR --fee 0
-./tezos-client transfer 2.585 from tezos-suisse to KT1Jev2rDzb92wGKPSwbVEGkcHosMUTvz89A --fee 0
-./tezos-client transfer 2.003 from tezos-suisse to KT1Tybh9CY57AcHny8mHpaFyrV3BtWfxpYtz --fee 0
-./tezos-client transfer 1.372 from tezos-suisse to KT1XZjBGz2ThwnWvxxpHYy2NmxgZPFBNqDfa --fee 0
-./tezos-client transfer 1.301 from tezos-suisse to KT1VunidXJHRLCQoFtTABNDeBrUkw9gKfDS2 --fee 0
-./tezos-client transfer 1.195 from tezos-suisse to KT1LBosdVe68VfEaTv5qP33aCgtdZ7g7LQK3 --fee 0
-./tezos-client transfer 1.13 from tezos-suisse to KT1FcgG5dgbVUQNfLNQWFGXTxcybaFpmPFVP --fee 0
-./tezos-client transfer 0.723 from tezos-suisse to KT1LrXab9dkGoC2dNvXomkq79naT1wjSCRrL --fee 0
-./tezos-client transfer 0.542 from tezos-suisse to KT1LNn1gDmUmivcm1Ptst3WGnKxtfDSzHZa3 --fee 0
-./tezos-client transfer 0.542 from tezos-suisse to KT1Pnq7dByBdgdnY9itg1tQfYD5KQrzhfGLm --fee 0
-./tezos-client transfer 0.434 from tezos-suisse to KT1S8jSCggtgFb4doVddAA5Y72nhG178szLF --fee 0
->>>>>>> fc6614d3769d80294b4f02c7ac14fb47dac6ac3b
